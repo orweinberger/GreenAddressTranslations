@@ -171,13 +171,13 @@ msgstr ""
 #: templates/wallet/partials/wallet_settings.html:76
 #: templates/wallet/partials/wallet_settings.html:96
 msgid "email"
-msgstr ""
+msgstr "אימייל"
 
 #: templates/wallet/partials/wallet_settings.html:83
 #: templates/wallet/partials/wallet_settings.html:103
 #: templates/wallet/partials/wallet_settings.html:194
 msgid "SMS"
-msgstr ""
+msgstr "SMS"
 
 #: templates/wallet/partials/wallet_settings.html:90
 msgid "Send outgoing transaction notification by"
@@ -186,18 +186,18 @@ msgstr ""
 #: templates/wallet/partials/wallet_settings.html:109
 #: templates/wallet/partials/wallet_settings.html:463
 msgid "NOTE"
-msgstr ""
+msgstr "הערה"
 
 #: templates/wallet/partials/wallet_settings.html:109
 msgid ""
 "You need to have email Two Factor Authentication enabled for this feature to "
 "work."
-msgstr ""
+msgstr "על מנת להשתמש באופציה זו תאלץ להפעיל אימות דו-שלבי באמצעות אימייל"
 
 #: templates/wallet/partials/wallet_settings.html:117
 #: templates/website/faq.html:45
 msgid "Two factor authentication"
-msgstr ""
+msgstr "אימות דו-שלבי"
 
 #: templates/wallet/partials/wallet_settings.html:118
 msgid "Set any or all two factor: you can choose which one when needed!"
@@ -205,17 +205,17 @@ msgstr ""
 
 #: templates/wallet/partials/wallet_settings.html:126
 msgid "Email"
-msgstr ""
+msgstr "אימייל"
 
 #: templates/wallet/partials/wallet_settings.html:130
 #: templates/wallet/partials/wallet_2fa.html:74
 msgid "Your email address"
-msgstr ""
+msgstr "כתובת האימייל שלך"
 
 #: templates/wallet/partials/wallet_settings.html:135
 #: templates/wallet/partials/wallet_2fa.html:79
 msgid "Please enter your email"
-msgstr ""
+msgstr "אנא הזן כתובת אימייל"
 
 #: templates/wallet/partials/wallet_settings.html:137
 #: templates/wallet/partials/wallet_settings.html:154
@@ -232,19 +232,19 @@ msgstr ""
 #: templates/wallet/partials/wallet_2fa.html:166
 #: templates/wallet/partials/wallet_2fa.html:186
 msgid "Enable"
-msgstr ""
+msgstr "הפעל"
 
 #: templates/wallet/partials/wallet_settings.html:144
 msgid ""
 "You need to provide one code from your email to set up the two factor "
 "authentication.<br>                    Please open your email and provide "
 "the code."
-msgstr ""
+msgstr "שלחנו לכתובת האימייל שלך את הקוד הנדרש עבור האימות הדו-שלבי<br>נא הזן את הקוד"
 
 #: templates/wallet/partials/wallet_settings.html:147
 #: templates/wallet/partials/wallet_2fa.html:95
 msgid "Email code"
-msgstr ""
+msgstr "קוד מהאימייל"
 
 #: templates/wallet/partials/wallet_settings.html:152
 #: templates/wallet/partials/wallet_settings.html:179
@@ -255,7 +255,7 @@ msgstr ""
 #: templates/wallet/partials/wallet_2fa.html:142
 #: templates/wallet/partials/wallet_2fa.html:184
 msgid "Please enter received code"
-msgstr ""
+msgstr "נא הזן את הקוד"
 
 #: templates/wallet/partials/wallet_settings.html:154
 #: templates/wallet/partials/wallet_settings.html:181
@@ -271,11 +271,11 @@ msgstr ""
 #: templates/wallet/partials/wallet_modal_logout.html:10
 #: templates/wallet/partials/signuplogin/redeem_password_modal.html:23
 msgid "Cancel"
-msgstr ""
+msgstr "ביטול"
 
 #: templates/wallet/partials/wallet_settings.html:167
 msgid "Google Authenticator"
-msgstr ""
+msgstr "אפליקציית המאמת של גוגל"
 
 #: templates/wallet/partials/wallet_settings.html:170
 msgid ""
@@ -291,25 +291,25 @@ msgstr ""
 #: templates/wallet/partials/wallet_2fa.html:33
 #: templates/wallet/partials/signuplogin/header_pay.html:12
 msgid "Show QR Code"
-msgstr ""
+msgstr "הצג קוד QR"
 
 #: templates/wallet/partials/wallet_settings.html:174
 msgid "Code"
-msgstr ""
+msgstr "קוד"
 
 #: templates/wallet/partials/wallet_settings.html:198
 #: templates/wallet/partials/wallet_settings.html:238
 #: templates/wallet/partials/wallet_2fa.html:118
 #: templates/wallet/partials/wallet_2fa.html:160
 msgid "Your phone number"
-msgstr ""
+msgstr "מספר הטלפון שלך"
 
 #: templates/wallet/partials/wallet_settings.html:203
 #: templates/wallet/partials/wallet_settings.html:243
 #: templates/wallet/partials/wallet_2fa.html:122
 #: templates/wallet/partials/wallet_2fa.html:164
 msgid "+NN... Please enter your phone"
-msgstr ""
+msgstr "+NN... הזן את מספר הטלפון שלך"
 
 #: templates/wallet/partials/wallet_settings.html:211
 msgid ""
@@ -320,12 +320,12 @@ msgstr ""
 #: templates/wallet/partials/wallet_settings.html:214
 #: templates/wallet/partials/wallet_2fa.html:137
 msgid "SMS code"
-msgstr ""
+msgstr "קוד SMS"
 
 #: templates/wallet/partials/wallet_settings.html:234
 #: templates/wallet/partials/wallet_2fa.html:13
 msgid "Phone"
-msgstr ""
+msgstr "טלפון"
 
 #: templates/wallet/partials/wallet_settings.html:251
 msgid ""
@@ -336,11 +336,11 @@ msgstr ""
 #: templates/wallet/partials/wallet_settings.html:254
 #: templates/wallet/partials/wallet_2fa.html:179
 msgid "Phone code"
-msgstr ""
+msgstr "קוד טלפון"
 
 #: templates/wallet/partials/wallet_settings.html:273
 msgid "Spending limits"
-msgstr ""
+msgstr "הגבלת משיכה"
 
 #: templates/wallet/partials/wallet_settings.html:274
 msgid ""
@@ -351,7 +351,7 @@ msgstr ""
 #: templates/wallet/partials/wallet_settings.html:282
 #: templates/wallet/partials/wallet_settings.html:322
 msgid "Enable delayed payments"
-msgstr ""
+msgstr "הפעל תשלומים דחויים"
 
 #: templates/wallet/partials/wallet_settings.html:283
 #: templates/wallet/partials/wallet_settings.html:323
@@ -359,7 +359,7 @@ msgstr ""
 #: templates/wallet/partials/signup_3_oauth.html:25
 #: templates/wallet/partials/signuplogin/base.html:47
 msgid "Coming soon"
-msgstr ""
+msgstr "בקרוב"
 
 #: templates/wallet/partials/wallet_settings.html:291
 #: templates/wallet/partials/wallet_settings.html:297
@@ -370,11 +370,11 @@ msgstr ""
 #: templates/wallet/partials/wallet_modal_tx_details.html:22
 #: templates/wallet/partials/wallet_modal_tx_details.html:34
 msgid "Amount"
-msgstr ""
+msgstr "סכום"
 
 #: templates/wallet/partials/wallet_settings.html:313
 msgid "Delayed payments"
-msgstr ""
+msgstr "תשלומים דחויים"
 
 #: templates/wallet/partials/wallet_settings.html:314
 msgid ""
@@ -389,7 +389,7 @@ msgstr ""
 #: templates/wallet/partials/wallet_settings.html:347
 #: templates/website/index.html:48 templates/website/index.html:49
 msgid "Quick login"
-msgstr ""
+msgstr "התחברות מהירה"
 
 #: templates/wallet/partials/wallet_settings.html:348
 msgid "Enable a simple PIN to quickly access your wallet from this device."
@@ -414,7 +414,7 @@ msgstr ""
 #: templates/wallet/partials/wallet_settings.html:365
 #: templates/wallet/partials/wallet_settings.html:379
 msgid "Confirm"
-msgstr ""
+msgstr "אישור"
 
 #: templates/wallet/partials/wallet_settings.html:369
 msgid "Disable quick login on all devices"
@@ -432,7 +432,7 @@ msgstr ""
 
 #: templates/wallet/partials/wallet_settings.html:378
 msgid "Remove"
-msgstr ""
+msgstr "הסר"
 
 #: templates/wallet/partials/wallet_settings.html:390
 msgid "Link your own third party accounts"
@@ -452,11 +452,11 @@ msgstr ""
 
 #: templates/wallet/partials/wallet_settings.html:417
 msgid "Username"
-msgstr ""
+msgstr "שם משתמש"
 
 #: templates/wallet/partials/wallet_settings.html:418
 msgid "Password"
-msgstr ""
+msgstr "סיסמה"
 
 #: templates/wallet/partials/wallet_settings.html:435
 #: templates/wallet/partials/wallet_settings.html:439
