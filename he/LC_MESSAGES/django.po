@@ -37,75 +37,75 @@ msgstr ""
 #: templates/wallet/nav.html:6 templates/wallet/partials/wallet_send.html:4
 #: templates/wallet/partials/wallet_send.html:74
 msgid "Send Money"
-msgstr ""
+msgstr "שלח כסף"
 
 #: templates/wallet/nav.html:7 templates/wallet/partials/wallet_receive.html:4
 msgid "Receive Money"
-msgstr ""
+msgstr "קבל כסף"
 
 #: templates/wallet/nav.html:8
 #: templates/wallet/partials/wallet_address_book.html:4
 msgid "Address Book"
-msgstr ""
+msgstr "ספר כתובות"
 
 #: templates/wallet/nav.html:9
 #: templates/wallet/partials/wallet_settings.html:4
 msgid "Settings"
-msgstr ""
+msgstr "הגדרות"
 
 #: templates/wallet/nav.html:10
 msgid "Update now"
-msgstr ""
+msgstr "עדכן כעת"
 
 #: templates/wallet/nav.html:11
 #: templates/wallet/partials/wallet_modal_logout_other_session.html:10
 #: templates/wallet/partials/wallet_modal_logout.html:11
 msgid "Logout"
-msgstr ""
+msgstr "התנתק"
 
 #: templates/wallet/nav.html:16 templates/website/faq.html:5
 #: templates/base/base.html:106
 msgid "FAQ"
-msgstr ""
+msgstr "שאלות נפוצות"
 
 #: templates/wallet/nav.html:16 templates/website/support.html:5
 #: templates/base/base.html:107
 msgid "Support"
-msgstr ""
+msgstr "תמיכה"
 
 #: templates/wallet/nav.html:18
 msgid "Last login"
-msgstr ""
+msgstr "התחברות אחרונה"
 
 #: templates/wallet/nav.html:21
 msgid "country"
-msgstr ""
+msgstr "מיקום"
 
 #: templates/wallet/nav.html:22
 msgid "unknown country"
-msgstr ""
+msgstr "מיקום לא ידוע"
 
 #: templates/wallet/partials/signup_4_2factor.html:7
 #: templates/wallet/partials/signup_1_init.html:13
 #: templates/wallet/partials/signup_2_pin.html:7
 #: templates/wallet/partials/signup_3_oauth.html:7
 msgid "Step"
-msgstr ""
+msgstr "שלב"
 
 #: templates/wallet/partials/signup_4_2factor.html:7
 #: templates/wallet/partials/signup_1_init.html:13
 #: templates/wallet/partials/signup_2_pin.html:7
 #: templates/wallet/partials/signup_3_oauth.html:7
 msgid "of"
-msgstr ""
+msgstr "מ"
 
 #: templates/wallet/partials/signup_4_2factor.html:14
 msgid "Don't compromise on security"
-msgstr ""
+msgstr "אל תתפשר על אבטחה"
 
 #: templates/wallet/partials/signup_4_2factor.html:14
 msgid "Set up two factor authentication"
-msgstr ""
+msgstr "הפעל אימות דו-שלבי"
 
 #: templates/wallet/partials/signup_4_2factor.html:17
 msgid ""
@@ -113,6 +113,8 @@ msgid ""
 "your wallet much more secure and will let you some additional features such "
 "as Spending Limits and Delayed Payments."
 msgstr ""
+"אנו ממליצים בחום על הפעלת אימות דו-שלבי על מנת להגביר את רמת האבטחה של ארנקך"
+"בנוסף תוכל להשתמש באופציות מתקדמות יותר כמו הגבלת משיכה ותשלומים דחויים"
 
 #: templates/wallet/partials/signup_4_2factor.html:18
 msgid ""
